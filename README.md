@@ -3,4 +3,4 @@ Coleção de exercícios práticos desenvolvidos para aprofundar o domínio sobr
 ## Tecnologias Utilizadas
 - **C**
 - **Manipulação de Strings**
-- **Algoritmos Matemáticos**: Cálculos de MDC (Máximo Divisor Comum) e a complexa função de Ackermann.
+- **Algoritmos Matemáticos**: Cálculos de MDC (Máximo Divisor Comum) e função de Ackermann.
